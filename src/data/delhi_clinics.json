@@ -1,0 +1,110 @@
+[
+  {
+    "id": "del_001",
+    "name": "Dr. Baba Saheb Ambedkar Hospital & Medical College",
+    "type": "Tertiary Multi-Specialty & 24x7 Emergency",
+    "address": "Sector 6, Rohini, Delhi - 110085 (Near DTU)",
+    "latitude": 28.7118,
+    "longitude": 77.1189,
+    "distance_from_dtu_approx_km": 4.5,
+    "contact": "011-27055585",
+    "services": "24x7 Emergency, Trauma, ICU, Pediatric, Pharmacy, Blood Bank, OPD",
+    "cost": "Free Govt Services"
+  },
+  {
+    "id": "del_002",
+    "name": "Aam Aadmi Mohalla Clinic - Shahbad Daulatpur (DTU Gate)",
+    "type": "Primary Health Clinic (Mohalla Clinic)",
+    "address": "Main Road, Shahbad Daulatpur, Near DTU Boundary, Delhi - 110042",
+    "latitude": 28.7511,
+    "longitude": 77.1165,
+    "distance_from_dtu_approx_km": 0.8,
+    "contact": "1800-11-4477",
+    "services": "Free Doctor Consultation, 212 Free Diagnostic Tests, Free Essential Medicines",
+    "cost": "100% Free"
+  },
+  {
+    "id": "del_003",
+    "name": "Aam Aadmi Mohalla Clinic - Rohini Sector 16",
+    "type": "Primary Health Clinic (Mohalla Clinic)",
+    "address": "Pocket A-1, Sector 16, Rohini, Delhi - 110089",
+    "latitude": 28.7360,
+    "longitude": 77.1265,
+    "distance_from_dtu_approx_km": 2.2,
+    "contact": "1800-11-4477",
+    "services": "Primary OPD, Fever & Infection Treatment, Basic Tests, Free Medicines",
+    "cost": "100% Free"
+  },
+  {
+    "id": "del_004",
+    "name": "Satyawadi Raja Harish Chandra Hospital",
+    "type": "Government Multi-Specialty Hospital",
+    "address": "Plot No. 30, Sector A-7, Narela, Delhi - 110040",
+    "latitude": 28.8415,
+    "longitude": 77.0945,
+    "distance_from_dtu_approx_km": 11.0,
+    "contact": "011-27788405",
+    "services": "24x7 Emergency, Maternity, Pediatric, General Surgery, Free Medicines",
+    "cost": "Free Govt Services"
+  },
+  {
+    "id": "del_005",
+    "name": "Babu Jagjivan Ram Memorial Hospital",
+    "type": "Secondary Govt Hospital & Emergency",
+    "address": "E-Block, Jahangirpuri, Delhi - 110033",
+    "latitude": 28.7289,
+    "longitude": 77.1648,
+    "distance_from_dtu_approx_km": 5.8,
+    "contact": "011-27631807",
+    "services": "24x7 Emergency, Gynecology, Pediatric Ward, Orthopedic, Blood Storage",
+    "cost": "Free Govt Services"
+  },
+  {
+    "id": "del_006",
+    "name": "Aam Aadmi Mohalla Clinic - Samaypur Badli",
+    "type": "Primary Health Clinic (Mohalla Clinic)",
+    "address": "Near Railway Station, Samaypur, Delhi - 110042",
+    "latitude": 28.7423,
+    "longitude": 77.1421,
+    "distance_from_dtu_approx_km": 2.9,
+    "contact": "1800-11-4477",
+    "services": "Free Doctor Consultation, Routine Blood/Urine Tests, Free Medicines",
+    "cost": "100% Free"
+  },
+  {
+    "id": "del_007",
+    "name": "Deep Chand Bandhu Hospital",
+    "type": "Government Hospital & Emergency",
+    "address": "Kokiwala Bagh, Ashok Vihar Phase 4, Delhi - 110052",
+    "latitude": 28.6942,
+    "longitude": 77.1725,
+    "distance_from_dtu_approx_km": 8.5,
+    "contact": "011-27305952",
+    "services": "24x7 Emergency, General Medicine, Child Care, ICU, Lab Services",
+    "cost": "Free Govt Services"
+  },
+  {
+    "id": "del_008",
+    "name": "All India Institute of Medical Sciences (AIIMS)",
+    "type": "Apex National Medical & Trauma Center",
+    "address": "Sri Aurobindo Marg, Ansari Nagar, New Delhi - 110029",
+    "latitude": 28.5672,
+    "longitude": 77.2100,
+    "distance_from_dtu_approx_km": 24.0,
+    "contact": "011-26588500",
+    "services": "Level 1 Trauma Center, Specialized Intensive Care, All Super-Specialties",
+    "cost": "Subsidized / Free BPL"
+  },
+  {
+    "id": "del_009",
+    "name": "Safdarjung Hospital & Vardhman Mahavir Medical College",
+    "type": "Central Govt Multi-Specialty & Burns/Trauma",
+    "address": "Ring Road, Opposite AIIMS, New Delhi - 110029",
+    "latitude": 28.5709,
+    "longitude": 77.2075,
+    "distance_from_dtu_approx_km": 23.5,
+    "contact": "011-26707444",
+    "services": "24x7 Emergency, Burns ICU, Pediatric Emergency, Multi-Specialty Care",
+    "cost": "100% Free Govt Services"
+  }
+]

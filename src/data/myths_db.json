@@ -1,0 +1,74 @@
+[
+  {
+    "id": "myth_001",
+    "claim_keywords": ["papaya", "papita", "dengue", "platelet", "giloy", "goat milk"],
+    "claim_summary": "Drinking papaya leaf juice, giloy, or goat milk cures dengue and raises platelets instantly.",
+    "verdict": "CAUTION_PARTIAL",
+    "verdict_label": "🟡 PARTIAL / USE WITH CAUTION",
+    "explanation_en": "Papaya leaf extract has limited supportive evidence for platelet counts, but it DOES NOT kill the dengue virus or cure severe dengue. The real danger in dengue is plasma leakage and severe dehydration. Depending only on juices without daily platelet monitoring and medical supervision can be fatal.",
+    "explanation_hi": "पपीते के पत्ते या गिलोय का रस डेंगू का इलाज नहीं है और न ही वायरस को मारता है। डेंगू में असली खतरा शरीर में पानी की कमी (डिहाइड्रेशन) और ब्लीडिंग का होता है। बिना डॉक्टर की सलाह और ब्लड टेस्ट के केवल इन पर निर्भर रहना जानलेवा हो सकता है।",
+    "actionable_advice_en": "Get a CBC blood test immediately to monitor platelet counts. Drink plenty of ORS, coconut water, and clean fluids. Watch for danger signs: bleeding from gums/nose, severe stomach pain, or persistent vomiting.",
+    "actionable_advice_hi": "तुरंत CBC टेस्ट कराएं और डॉक्टर को दिखाएं। ORS और नारियल पानी पिएं। अगर उल्टी, पेट दर्द या मसूड़ों से खून आए तो तुरंत अस्पताल जाएं।",
+    "forward_reply": "⚠️ *Fact Check*: Papaya leaf juice or goat milk cannot cure dengue. Dengue requires medical supervision and platelet tracking. For severe symptoms, visit the nearest clinic immediately!"
+  },
+  {
+    "id": "myth_002",
+    "claim_keywords": ["heart attack", "cough", "coughing", "cpr", "dil ka daura", "khansi"],
+    "claim_summary": "If you have a heart attack while alone, coughing vigorously can save your life (Cough CPR).",
+    "verdict": "DANGEROUS",
+    "verdict_label": "🔴 DANGEROUS / FALSE",
+    "explanation_en": "This viral WhatsApp forward is completely false and medically dangerous. Coughing does not stop a heart attack and wastes critical minutes. It can actually worsen strain on the heart muscle.",
+    "explanation_hi": "यह व्हाट्सएप मैसेज पूरी तरह गलत और खतरनाक है। खांसने से हार्ट अटैक ठीक नहीं होता, बल्कि दिल पर तनाव बढ़ सकता है और जरूरी समय बर्बाद होता है।",
+    "actionable_advice_en": "If you or someone feels crushing chest pain radiating to left arm/jaw, sweating, or breathlessness: Sit down calmly, immediately call 112 / 108 for an ambulance, and chew a 300mg Aspirin/Disprin if not allergic.",
+    "actionable_advice_hi": "सीने में तेज दर्द, पसीना या सांस फूलने पर तुरंत 112 या 108 पर एम्बुलेंस बुलाएं। मरीज को आराम से बैठाएं और नजदीकी अस्पताल ले जाएं।",
+    "forward_reply": "🛑 *False & Dangerous*: Coughing does not stop a heart attack! Medical societies warn against this. Call emergency (112 / 108) immediately."
+  },
+  {
+    "id": "myth_003",
+    "claim_keywords": ["mustard oil", "sarso tel", "nose", "nostril", "corona", "virus", "infection"],
+    "claim_summary": "Putting mustard oil or lemon drops into your nose kills all respiratory viruses and prevents infection.",
+    "verdict": "DANGEROUS",
+    "verdict_label": "🔴 DANGEROUS / FALSE",
+    "explanation_en": "Putting oils or irritants like lemon juice into nasal passages does not kill respiratory viruses. Worse, inhaling mustard oil into the lungs can cause dangerous lipoid pneumonia (lung inflammation) and damage nasal mucosa.",
+    "explanation_hi": "नाक में सरसों का तेल या नींबू का रस डालने से वायरस खत्म नहीं होता। बल्कि तेल फेफड़ों में जाने से 'लिपोइड निमोनिया' (गंभीर फेफड़ों का संक्रमण) हो सकता है।",
+    "actionable_advice_en": "Keep nasal passages clean using saline sprays if needed. Wear a mask in crowded or polluted areas and wash hands regularly.",
+    "actionable_advice_hi": "नाक में कोई भी तेल या नींबू न डालें। अगर नाक बंद हो तो भाप (steam) लें और डॉक्टर की सलाह लें।",
+    "forward_reply": "🛑 *Fact Check*: Putting mustard oil or lemon in the nose does not protect against infections and can cause serious lung inflammation. Avoid doing this!"
+  },
+  {
+    "id": "myth_004",
+    "claim_keywords": ["snake bite", "saanp", "cheera", "cut", "suck venom", "tourniquet", "rasayan"],
+    "claim_summary": "Cut the wound with a blade, suck out venom, or tie a tight rope (tourniquet) after a snake bite.",
+    "verdict": "DANGEROUS",
+    "verdict_label": "🔴 DANGEROUS / FALSE",
+    "explanation_en": "Cutting the wound causes severe infection and uncontrolled bleeding. Sucking venom introduces bacteria and can poison the rescuer. Tying tight tourniquets can lead to gangrene and limb amputation.",
+    "explanation_hi": "सांप काटने पर चीरा लगाना, जहर चूसना या जोर से रस्सी बांधना बहुत खतरनाक है। इससे गैंग्रीन हो सकता है और हाथ/पैर काटना पड़ सकता है।",
+    "actionable_advice_en": "Keep the victim calm and immobilize the bitten limb (like a fracture). Do NOT cut or suck. Rush immediately to the nearest government hospital/PHC for Anti-Snake Venom (ASV).",
+    "actionable_advice_hi": "काटे गए अंग को बिल्कुल न हिलाएं। बिना समय गंवाए मरीज को नजदीकी सरकारी अस्पताल ले जाएं जहाँ एंटी-वेनम (ASV) उपलब्ध हो।",
+    "forward_reply": "🛑 *Deadly Myth*: Never cut, suck, or tie ropes on a snake bite. It can cause limb loss. Rush to the nearest hospital immediately for Anti-Snake Venom (ASV)!"
+  },
+  {
+    "id": "myth_005",
+    "claim_keywords": ["diarrhea", "dast", "loose motion", "pani band", "stop water", "ors"],
+    "claim_summary": "Stop giving water or food to a child with diarrhea so the loose motions stop.",
+    "verdict": "DANGEROUS",
+    "verdict_label": "🔴 DANGEROUS / FALSE",
+    "explanation_en": "Stopping fluids during diarrhea is one of the leading causes of child mortality in rural India. Loose motions cause fatal dehydration. Withholding fluids accelerates organ failure.",
+    "explanation_hi": "दस्त होने पर पानी बंद करना बच्चों के लिए जानलेवा हो सकता है। दस्त में असली खतरा शरीर में पानी और नमक की कमी (डिहाइड्रेशन) से होता है।",
+    "actionable_advice_en": "Give ORS (Oral Rehydration Solution) after every loose stool. Continue breastfeeding and soft home foods (khichdi, curd). Give Zinc tablets for 14 days as prescribed by health workers.",
+    "actionable_advice_hi": "हर बार दस्त के बाद ORS का घोल पिलाएं। मां का दूध और हल्का खाना (खिचड़ी, दाल का पानी) जारी रखें।",
+    "forward_reply": "⚠️ *Crucial Fact*: Never stop water/fluids during diarrhea! Give ORS continuously to prevent dehydration. If child is drowsy or sunken-eyed, see a doctor."
+  },
+  {
+    "id": "myth_006",
+    "claim_keywords": ["ginger", "adrak", "tulsi", "honey", "khansi", "cold", "sardi", "cough"],
+    "claim_summary": "Adrak (ginger), tulsi, and honey can cure pneumonia and severe chest infections completely without doctors.",
+    "verdict": "CAUTION_PARTIAL",
+    "verdict_label": "🟡 PARTIAL / USE WITH CAUTION",
+    "explanation_en": "Warm ginger, tulsi, and honey are soothing and effective for mild viral common colds and throat tickles. However, they CANNOT cure bacterial pneumonia, bronchitis, or severe respiratory illness.",
+    "explanation_hi": "अदरक, तुलसी और शहद सामान्य सर्दी-खांसी में गले को आराम देते हैं। लेकिन ये निमोनिया या फेफड़ों के गंभीर संक्रमण को ठीक नहीं कर सकते।",
+    "actionable_advice_en": "Use honey and ginger for soothing mild coughs (do NOT give honey to infants under 1 year). If cough lasts >2 weeks, has chest pain, or is accompanied by high fever or rapid breathing, consult a doctor immediately.",
+    "actionable_advice_hi": "हल्की खांसी में काढ़ा या अदरक-शहद ले सकते हैं। लेकिन अगर 2 हफ्ते से ज्यादा खांसी हो या सांस लेने में परेशानी हो तो तुरंत डॉक्टर को दिखाएं।",
+    "forward_reply": "🟡 *Advice*: Ginger and honey soothe ordinary coughs, but if you have high fever, breathlessness, or cough over 2 weeks, consult a doctor."
+  }
+]

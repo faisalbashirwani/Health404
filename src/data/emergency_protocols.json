@@ -1,0 +1,81 @@
+{
+  "emergency_helplines": [
+    {
+      "name": "National Emergency Number",
+      "number": "112",
+      "description": "Police, Fire, Ambulance unified response"
+    },
+    {
+      "name": "Free Emergency Ambulance",
+      "number": "108",
+      "description": "Government ambulance for immediate medical emergencies"
+    },
+    {
+      "name": "Maternal & Child Health Express",
+      "number": "102",
+      "description": "Free transport for pregnant women and sick neonates"
+    },
+    {
+      "name": "National Health Helpline",
+      "number": "104",
+      "description": "24x7 Government medical advice and health schemes"
+    },
+    {
+      "name": "Delhi Poison Control (AIIMS)",
+      "number": "011-26589391",
+      "description": "National Poisons Information Centre"
+    }
+  ],
+  "red_flag_categories": [
+    {
+      "category": "CARDIAC_CHEST_PAIN",
+      "keywords": [
+        "chest pain", "heart attack", "dil me dard", "chhati me dard", 
+        "seene me dard", "left arm pain", "sweating chest pain", "dil ka daura"
+      ],
+      "severity": "CRITICAL_EMERGENCY",
+      "guidance_en": "🚨 *CRITICAL EMERGENCY: POSSIBLE CARDIAC EVENT*\nSit down immediately in a comfortable resting position. Do NOT walk or drive. Call 112 / 108 immediately. If available and not allergic, chew an Aspirin (300mg).",
+      "guidance_hi": "🚨 *आपातकालीन चेतावनी: दिल का दौरा (हार्ट अटैक) की आशंका*\nतुरंत आराम से बैठ जाएं। चलें या गाड़ी न चलाएं। तुरंत 112 या 108 पर कॉल करके एम्बुलेंस बुलाएं।"
+    },
+    {
+      "category": "RESPIRATORY_DISTRESS",
+      "keywords": [
+        "cannot breathe", "can't breathe", "saans nahi aa rahi", "saans phool rahi", 
+        "gasping", "blue lips", "neele hoth", "severe asthma", "dum ghut raha hai"
+      ],
+      "severity": "CRITICAL_EMERGENCY",
+      "guidance_en": "🚨 *CRITICAL EMERGENCY: SEVERE BREATHING DISTRESS*\nSit upright to open airways. Loosen tight clothing around neck and chest. Seek immediate emergency oxygen and care at the nearest hospital.",
+      "guidance_hi": "🚨 *आपातकालीन चेतावनी: सांस लेने में भारी तकलीफ*\nमरीज को सीधा बैठाएं ताकि सांस नली खुली रहे। कपड़े ढीले करें और बिना देरी किए नजदीकी अस्पताल ले जाएं।"
+    },
+    {
+      "category": "PEDIATRIC_DANGER",
+      "keywords": [
+        "baccha behosh", "baby unconscious", "not waking up", "baccha doodh nahi pee raha",
+        "unable to drink", "baccha behosh ho gaya", "dast behosh", "seizures baby", "jhatke"
+      ],
+      "severity": "CRITICAL_EMERGENCY",
+      "guidance_en": "🚨 *PEDIATRIC EMERGENCY: DANGER SIGNS IN CHILD*\nInability to drink/breastfeed, lethargy, sunken eyes, or convulsions are critical danger signs in young children. Take the child to an emergency hospital or pediatric ward right now!",
+      "guidance_hi": "🚨 *बाल आपातकालीन चेतावनी: बच्चे में खतरे के लक्षण*\nयदि बच्चा दूध नहीं पी रहा, बेहोश है, या झटके आ रहे हैं, तो तुरंत बच्चे को नजदीकी अस्पताल के इमरजेंसी वार्ड में ले जाएं!"
+    },
+    {
+      "category": "SNAKE_OR_POISON",
+      "keywords": [
+        "snake bite", "saanp ne kaat liya", "saanp kaat", "poison", "zehar", "phenol peeli",
+        "acid pee liya", "keeda kaat liya neela"
+      ],
+      "severity": "CRITICAL_EMERGENCY",
+      "guidance_en": "🚨 *TOXICOLOGY / BITE EMERGENCY*\nKeep patient calm and still. Do NOT cut, burn, or suck the wound. Do NOT induce vomiting if chemical/acid was swallowed. Rush to hospital with Anti-Snake Venom (ASV) / Poison management.",
+      "guidance_hi": "🚨 *जहर या सर्पदंश आपातकाल*\nमरीज को शांत रखें और काटे गए अंग को न हिलाएं। चीरा न लगाएं। तुरंत नजदीकी सरकारी अस्पताल ले जाएं।"
+    },
+    {
+      "category": "STROKE_NEUROLOGICAL",
+      "keywords": [
+        "paralysis", "lakwa", "face drooping", "bol nahi pa raha", "slurred speech", 
+        "haath sunn", "ek taraf kamzori", "one side weakness", "sudden loss of vision"
+      ],
+      "severity": "CRITICAL_EMERGENCY",
+      "guidance_en": "🚨 *CRITICAL EMERGENCY: POSSIBLE STROKE (F.A.S.T.)*\nFace drooping, Arm weakness, Slurred Speech. Note the exact time symptoms started and rush immediately to an emergency hospital with CT scan facilities.",
+      "guidance_hi": "🚨 *आपातकालीन चेतावनी: लकवा / स्ट्रोक की आशंका*\nमुंह टेढ़ा होना, बोलने में लड़खड़ाहट या एक तरफ हाथ-पैर काम न करना स्ट्रोक के लक्षण हैं। हर मिनट कीमती है, तुरंत अस्पताल पहुंचे।"
+    }
+  ]
+}
